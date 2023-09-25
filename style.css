@@ -31,5 +31,9 @@ background: #FFFFFF;
 }     
 
 .itens {
-     font-style: italic;
-     }
+font-style: italic;
+}
+
+.imagembeneficios {
+width: 50%;
+}
